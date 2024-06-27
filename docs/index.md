@@ -22,4 +22,4 @@ The high-level process documented in the **Workspace ONE UEM APIs** overview lin
 1. Create Fork from Existing Collection
 2. Collect your tenant values
 3. Create an *environment* and add your tenant values as variables, including authentication
-4. Use the APIs that !
+4. Use the APIs that match your tenant version
