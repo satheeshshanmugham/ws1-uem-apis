@@ -6,7 +6,7 @@ hide:
   - toc
 ---
 
-Each Workspace ONE UEM tenant provides an API/help page that displays all the API commands, parameters and usage, as well as a mechanism to test each call.
+Each Workspace ONE UEM tenant provides an API/help page that displays all the API commands, parameters and usage, as well as a mechanism to test each call. The use of and getting started is described in the [Let’s Git Commit(ted) to </Dev> Resources: Getting Started with the Workspace ONE UEM REST APIs](https://techzone.omnissa.com/blog/lets-git-committed-resources-getting-started-workspace-one-uem-rest-apis) article.
 
 This process of testing APIs on the API/help page was cumbersome, especially when having to then manually build the same API call in Postman. It was time-consuming and prone to errors.
 
