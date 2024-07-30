@@ -144,4 +144,4 @@ markdown_extensions:
 
 # Navigation
 nav:
-  - Workspace ONE UEM APIs: index.md
+  - index.md
