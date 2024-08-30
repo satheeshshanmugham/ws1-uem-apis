@@ -1,6 +1,6 @@
 # Project Information
 site_name: Workspace ONE UEM APIs
-site_url: https://euc-dev.github.io/ws1-uem-apis
+site_url: https://euc-dev.github.io/workspace-one-uem-apis/
 site_author: Phil Helmling
 site_description: Submodule for developer.omnissa.com
 docs_dir: docs
@@ -8,7 +8,7 @@ site_dir: .site
 use_directory_urls: true
 
 # Repository
-repo_url: https://github.com/euc-dev/ws1-uem-apis
+repo_url: https://github.com/euc-dev/ws1-uem-apis/
 edit_uri: edit/main/docs/
 
 # Copyright
