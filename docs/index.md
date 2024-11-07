@@ -5,6 +5,7 @@ hide:
   #- navigation
   - toc
 ---
+![Workspace ONE UEM](../../../assets/logos/UEM-v-lm.png){ align=right }
 
 Each Workspace ONE UEM tenant provides an API/help page that displays all the API commands, parameters and usage, as well as a mechanism to test each call. The use of and getting started is described in the [Let’s Git Commit(ted) to </Dev> Resources: Getting Started with the Workspace ONE UEM REST APIs](https://techzone.omnissa.com/blog/lets-git-committed-resources-getting-started-workspace-one-uem-rest-apis) article.
 
